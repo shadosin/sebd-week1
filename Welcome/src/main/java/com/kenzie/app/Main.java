@@ -5,6 +5,6 @@ public class Main {
         
         //This program will print "Welcome to Kenzie".
         
-        System.out.println("Welcome to Kenzi");
+        System.out.println("Welcome to Kenzie");
     }
 }
